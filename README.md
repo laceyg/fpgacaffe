@@ -1,3 +1,5 @@
+[Caffeinated FPGAs: FPGA Framework For Convolutional Neural Networks](https://arxiv.org/abs/1609.09671)
+
 # Caffe
 
 [![Build Status](https://travis-ci.org/BVLC/caffe.svg?branch=master)](https://travis-ci.org/BVLC/caffe)
